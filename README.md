@@ -1,4 +1,4 @@
-# Low memory MySQL
+# Low memory MySQL (updated for new img)
 
 MySQL is great, but with its default settings, it uses a lot of memory. This can be a problem when deploying it in a low-memory environment, such as a virtual server or a Docker container server.
 
